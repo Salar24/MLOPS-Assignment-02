@@ -1,1 +1,9 @@
-import libraries
+flask
+sklearn
+plotly
+pylint
+psx-data-reader
+pandas
+requests
+datetime
+
