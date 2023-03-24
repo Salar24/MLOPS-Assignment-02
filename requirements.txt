@@ -1,9 +1,8 @@
 flask
-sklearn
+scikit-learn
 plotly
 pylint
 psx-data-reader
 pandas
 requests
 datetime
-
